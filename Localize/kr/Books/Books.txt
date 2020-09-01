@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BookDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <bookDescList>
+  <BookDesc BookID="1300000">
+    <BookName>황혼</BookName>
+    <TextList>
+      <Desc>a</Desc>
+      <Desc>a</Desc>
+    </TextList>
+    <PassiveList>
+        <Passive>전투 시작 시 최대 빛을 5로 확장, 속도 주사위 +2, 막 시작 시 전투 책장이 5장이 될 때까지 드로우</Passive>
+        <Passive>합 패배 시 다음 막에 힘 1, 보호 1, 인내 1, 신속 1 획득, 부정 감정 2 누적, 합 승리 시 긍정 감정 2 누적</Passive>
+        <Passive>막 시작 시 모든 적에게 허약 2, 무장 해제 2, 취약 2 부여</Passive>
+        <Passive>합 승리 시 상대에게 최대 체력의 5% 피해</Passive>
+        <Passive>피해를 받을 시 다음 막에 자신에게 취약 5, 힘 5 부여</Passive>
+      </PassiveList>
+  </BookDesc>
+  <BookDesc BookID="1700000">
+    <BookName>실낙원</BookName>
+    <TextList>
+      <Desc>a</Desc>
+      <Desc>a</Desc>
+    </TextList>
+    <PassiveList>
+        <Passive>속도 주사위 +2</Passive>
+        <Passive>무대 시작 시 사도 1로 시작, 매 막 시작마다 사도 1 증가, 사도 12 달성 시 사망</Passive>
+        <Passive>합 진행 시 결과에 관계없이 주사위 눈의 값만큼 상대의 전체 체력에서 %데미지, 일방 공격 시 그 두 배</Passive>
+      </PassiveList>
+  </BookDesc>
+  <BookDesc BookID="2000000">
+    <BookName>조율자</BookName>
+    <TextList>
+      <Desc>a</Desc>
+      <Desc>a</Desc>
+    </TextList>
+    <PassiveList>
+        <Passive>속도 주사위 +2</Passive>
+        <Passive>일방 공격 시 상대가 폭주에 걸려 있으면 중첩 수만큼 그 폭주에 해당하는 효과 발동</Passive>
+      </PassiveList>
+  </BookDesc>
+  </bookDescList>
+</BookDescRoot>

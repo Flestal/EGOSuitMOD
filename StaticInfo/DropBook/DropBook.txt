@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BookUseXmlRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <BookUse ID="1100000">
+    <TextId>dropbook_AbNormality</TextId>
+    <BookIcon>Lobotomy</BookIcon>
+    <Chapter>5</Chapter>
+    <DropItem Type="Equip">1300000</DropItem>
+    <DropItem Type="Equip">1700000</DropItem>
+    <DropItem Type="Equip">2000000</DropItem>
+  </BookUse>
+  <BookUse ID="200001">
+    <TextId>dropbook_rat</TextId>
+    <BookIcon>Rats</BookIcon>
+    <Chapter>1</Chapter>
+    <Exp>3</Exp>
+    <EquipProb>0.5</EquipProb>
+    <DropItem Type="Equip">200001</DropItem>
+    <DropItem Type="Equip">200002</DropItem>
+    <DropItem Type="Equip">200003</DropItem>
+  </BookUse>
+  <BookUse ID="210005">
+    <TextId>dropbook_district23</TextId>
+    <BookIcon>PierresMeatPies</BookIcon>
+    <Chapter>2</Chapter>
+    <Exp>10</Exp>
+    <EquipProb>0.4</EquipProb>
+    <DropItem Type="Equip">211003</DropItem>
+    <DropItem Type="Equip">211004</DropItem>
+    <DropItem Type="Equip">1300000</DropItem>
+    <DropItem Type="Equip">1700000</DropItem>
+    <DropItem Type="Equip">2000000</DropItem>
+  </BookUse>
+</BookUseXmlRoot>

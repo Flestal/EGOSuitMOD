@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DiceCardXmlRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Card ID="1400000">
+        <Name>어두운 황혼을 지샌</Name>
+        <Artwork>OverDusk</Artwork>
+        <Rarity>Unique</Rarity>
+        <Spec Range="Near" Cost="7" />
+        <Option>OnlyPage</Option>
+        <Script>UHJ</Script>
+        <ScriptDesc>[전투 시작] 자신을 제외한 아군에게 힘 10, 모든 적에게 취약 20 부여
+         [사용 시] 자신의 모든 빛을 소모하고 그 값 만큼 이번 막에 인내를, 다음 막에 자신을 제외한 아군에게 신속을 부여</ScriptDesc>
+        <BehaviourList>
+        <Behaviour Min="1" Dice="2" Type="Def" Detail="Evasion" Motion="E" EffectRes="" Script="UHJ1" Desc="[합 승리] 자신의 이 주사위를 제외한 모든 주사위 위력+10, 이 주사위를 재활용(최대 5회)" />
+        <Behaviour Min="20" Dice="30" Type="Atk" Detail="Slash" Motion="J" EffectRes="" Script="UHJ2" Desc="[적중] 이 공격이 상대의 가장 취약한 속성이면 이 주사위를 재활용(최대 5회)" />
+        <Behaviour Min="20" Dice="30" Type="Atk" Detail="Penetrate" Motion="Z" EffectRes="" Script="UHJ2" Desc="[적중] 이 공격이 상대의 가장 취약한 속성이면 이 주사위를 재활용(최대 5회)" />
+        <Behaviour Min="20" Dice="30" Type="Atk" Detail="Hit" Motion="H" EffectRes="" Script="UHJ2" Desc="[적중] 이 공격이 상대의 가장 취약한 속성이면 이 주사위를 재활용(최대 5회)" />
+        </BehaviourList>
+        <Chapter>4</Chapter>
+        <Priority>10</Priority>
+    </Card>
+    <Card ID="1400001">
+        <Name>작은 부리</Name>
+        <Artwork>SmallBeak</Artwork>
+        <Rarity>Rare</Rarity>
+        <Spec Range="Near" Cost="2" />
+        <Option>OnlyPage</Option>
+        <Script/>
+        <ScriptDesc/>
+        <BehaviourList>
+        <Behaviour Min="40" Dice="50" Type="Atk" Detail="Slash" Motion="J" EffectRes="" Script="SmallBeak" Desc="[적중] 상대에게 현재 출혈 +20 부여" />
+        </BehaviourList>
+        <Chapter>4</Chapter>
+        <Priority>0</Priority>
+    </Card>
+    <Card ID="1400002">
+        <Name>큰 눈</Name>
+        <Artwork>BigEyes</Artwork>
+        <Rarity>Rare</Rarity>
+        <Spec Range="FarAreaEach" Cost="2" Affection ="Team"/>
+        <Option>OnlyPage</Option>
+        <Script>BigEyes</Script>
+        <ScriptDesc>[사용 시] 다음 막에 대상에게 현재 취약 +8, 현재 허약 +8, 현재 무장 해제 +8 부여</ScriptDesc>
+        <BehaviourList>
+        <Behaviour Min="1" Dice="1" Type="Atk" Detail="Penetrate" Motion="Z" EffectRes="" Script="" Desc="" />
+        <Behaviour Min="1" Dice="1" Type="Atk" Detail="Penetrate" Motion="Z" EffectRes="" Script="" Desc="" />
+        <Behaviour Min="1" Dice="1" Type="Atk" Detail="Penetrate" Motion="Z" EffectRes="" Script="" Desc="" />
+        </BehaviourList>
+        <Chapter>4</Chapter>
+        <Priority>2</Priority>
+    </Card>
+    <Card ID="1400003">
+        <Name>긴 팔</Name>
+        <Artwork>LongArms</Artwork>
+        <Rarity>Rare</Rarity>
+        <Spec Range="Far" Cost="2" />
+        <Option>OnlyPage</Option>
+        <Script/>
+        <ScriptDesc/>
+        <BehaviourList>
+        <Behaviour Min="13" Dice="13" Type="Atk" Detail="Penetrate" Motion="H" EffectRes="" Script="LongArms" Desc="[합 승리] 적에게 최대 체력의 20%의 피해" />
+        <Behaviour Min="13" Dice="13" Type="Atk" Detail="Hit" Motion="H" EffectRes="" Script="LongArms" Desc="[합 승리] 적에게 최대 체력의 20%의 피해" />
+        </BehaviourList>
+        <Chapter>4</Chapter>
+        <Priority>1</Priority>
+    </Card>     
+
+</DiceCardXmlRoot>

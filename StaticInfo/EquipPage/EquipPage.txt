@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<BookXmlRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <Book ID="1300000">
+    <Name>황혼</Name>
+    <TextId>1300000</TextId>
+    <EquipEffect>
+      <HP>25</HP>
+      <HpGrowth>10</HpGrowth>
+      <Break>25</Break>
+      <BreakGrowth>10</BreakGrowth>
+      <SpeedMin>4</SpeedMin>
+      <Speed>7</Speed>
+      <SResist>Resist</SResist>
+      <PResist>Resist</PResist>
+      <HResist>Resist</HResist>
+      <SBResist>Resist</SBResist>
+      <PBResist>Resist</PBResist>
+      <HBResist>Resist</HBResist>
+      <Passive Level="5">1500000</Passive>
+      <Passive Level="5">1500001</Passive>
+      <Passive Level="10">1500002</Passive>
+      <Passive Level="15">1500003</Passive>
+      <Passive Level="20">1500004</Passive>
+      <OnlyCard>1400000</OnlyCard>
+      <OnlyCard>1400001</OnlyCard>
+      <OnlyCard>1400002</OnlyCard>
+      <OnlyCard>1400003</OnlyCard>
+      <StartPlayPoint>7</StartPlayPoint>
+    </EquipEffect>
+    <RangeType>Hybrid</RangeType>
+    <BookIcon>Lobotomy</BookIcon>
+    <CharacterSkin>Custom_BossBirdEGO</CharacterSkin>
+    <Rarity>Unique</Rarity>
+  </Book>
+  <Book ID="1700000">
+    <Name>실낙원</Name>
+    <TextId>1700000</TextId>
+    <EquipEffect>
+      <HP>25</HP>
+      <HpGrowth>10</HpGrowth>
+      <Break>25</Break>
+      <BreakGrowth>10</BreakGrowth>
+      <SpeedMin>4</SpeedMin>
+      <Speed>7</Speed>
+      <SResist>Resist</SResist>
+      <PResist>Resist</PResist>
+      <HResist>Resist</HResist>
+      <SBResist>Resist</SBResist>
+      <PBResist>Resist</PBResist>
+      <HBResist>Resist</HBResist>
+      <Passive Level="5">10000000</Passive>
+      <Passive Level="12">1600000</Passive>
+      <Passive Level="12">1600001</Passive>
+      <StartPlayPoint>7</StartPlayPoint>
+    </EquipEffect>
+    <BookIcon>Lobotomy</BookIcon>
+    <CharacterSkin>Custom_WhiteNightEGO</CharacterSkin>
+    <Rarity>Unique</Rarity>
+  </Book>
+  <Book ID="2000000">
+    <Name>조율자</Name>
+    <TextId>2000000</TextId>
+    <EquipEffect>
+      <HP>25</HP>
+      <HpGrowth>10</HpGrowth>
+      <Break>25</Break>
+      <BreakGrowth>10</BreakGrowth>
+      <SpeedMin>5</SpeedMin>
+      <Speed>8</Speed>
+      <SResist>Resist</SResist>
+      <PResist>Resist</PResist>
+      <HResist>Resist</HResist>
+      <SBResist>Resist</SBResist>
+      <PBResist>Resist</PBResist>
+      <HBResist>Resist</HBResist>
+      <Passive Level="5">10000000</Passive>
+      <Passive Level="5">2010000</Passive>
+      <Passive Level="5">2010001</Passive>
+      <Passive Level="5">2010002</Passive>
+      <StartPlayPoint>7</StartPlayPoint>
+    </EquipEffect>
+    <BookIcon>Lobotomy</BookIcon>
+    <CharacterSkin>Custom_Garion</CharacterSkin>
+    <Rarity>Unique</Rarity>
+  </Book>
+</BookXmlRoot>

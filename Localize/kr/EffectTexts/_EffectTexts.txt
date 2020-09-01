@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleEffectTextRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <effectTextList>
+    <BattleEffectText ID="WhiteNightStack">
+      <Name>사도</Name>
+      <Desc>막 시작 시 (최대 체력x{0})%로 모든 적에게 데미지, 자신을 제외한 모든 아군을 회복. 스택이 12가 되면 사망함.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="GarionFlow">
+      <Name>파도</Name>
+      <Desc>매 주사위를 굴릴 때 (주사위 눈 수x{0})만큼 데미지, 막 종료 시 무작위 아군에게 파도를 옮김.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="DarkFog">
+      <Name>검은 안개</Name>
+      <Desc>매 주사위를 굴릴 때 이번 막과 다음 막에 {0}만큼 약화를 부여함.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="GarionFlowWave">
+      <Name>파도 폭주</Name>
+      <Desc>매 주사위를 굴릴 때 1씩 감소함. 폭주 시 {0}만큼 파도 발생.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="DarkFogWave">
+      <Name>검은 안개 폭주</Name>
+      <Desc>매 주사위를 굴릴 때 1씩 감소함. 폭주 시 {0}만큼 검은 안개 발생.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="PillarWave">
+      <Name>기둥 폭주</Name>
+      <Desc>매 주사위를 굴릴 때 1씩 감소함. 폭주 시 {0} x8만큼의 피해를 입음.</Desc>
+    </BattleEffectText>
+  </effectTextList>
+</BattleEffectTextRoot>

@@ -1,0 +1,45 @@
+<ModInfo>
+  <ClothInfo>
+    <Name>Twilight E.G.O</Name>
+    <Default>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="0" pivot_y="-400" />
+      <Head head_x="0" head_y="405.4" rotation="0" head_enable="True" />
+    </Default>
+    <Guard>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="0" pivot_y="-400" />
+      <Head head_x="-6.75" head_y="401.35" rotation="6.7467" head_enable="True" />
+    </Guard>
+    <Evade>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="-59.39999" pivot_y="-400" />
+      <Head head_x="71.55" head_y="408.1" rotation="0.8433509" head_enable="True" />
+    </Evade>
+    <Damaged>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="0" pivot_y="-400" />
+      <Head head_x="-9.450001" head_y="383.8" rotation="10.52769" head_enable="True" />
+    </Damaged>
+    <Slash>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="-39.15001" pivot_y="-400" />
+      <Head head_x="52.65001" head_y="400" rotation="-10.12006" head_enable="True" />
+    </Slash>
+    <Penetrate>
+      <Direction>Side</Direction>
+      <Pivot pivot_x="106.65" pivot_y="-400" />
+      <Head head_x="-116.1" head_y="400" rotation="0" head_enable="True" />
+    </Penetrate>
+    <Hit>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="112.0499" pivot_y="-400" />
+      <Head head_x="-122.85" head_y="395.95" rotation="10.52769" head_enable="True" />
+    </Hit>
+    <Move>
+      <Direction>Front</Direction>
+      <Pivot pivot_x="97.19997" pivot_y="-400" />
+      <Head head_x="-113.4" head_y="400" rotation="10.52769" head_enable="True" />
+    </Move>
+  </ClothInfo>
+</ModInfo>

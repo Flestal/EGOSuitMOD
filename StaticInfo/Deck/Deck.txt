@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DeckXmlRoot>
+  <Deck ID="1300000">
+  </Deck>
+  <Deck ID="1700000">
+  </Deck>
+  <Deck ID="2000000">
+  </Deck>
+
+</DeckXmlRoot>
