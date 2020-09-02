@@ -27,7 +27,7 @@
   </PassiveDesc>
   <PassiveDesc ID="1500006">
     <Name>자칭 신</Name>
-    <Desc>합 진행 시 결과에 관계없이 주사위 눈의 값만큼 상대의 전체 체력에서 %데미지, 일방 공격 시 그 두 배</Desc>
+    <Desc>합 진행 시 결과에 관계없이 주사위 눈의 값만큼 상대의 전체 체력에서 %피해, 일방 공격 시 그 두 배</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1500007">
     <Name>조율자</Name>
