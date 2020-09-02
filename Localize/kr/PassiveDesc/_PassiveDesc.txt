@@ -21,27 +21,27 @@
     <Name>징벌</Name>
     <Desc>일방 공격을 받을 시 다음 막에 자신에게 취약 10, 힘 5 부여</Desc>
   </PassiveDesc>
-  <PassiveDesc ID="1600000">
+  <PassiveDesc ID="1500005">
     <Name>사도</Name>
     <Desc>무대 시작 시 사도 1로 시작, 매 막 시작마다 사도 1 증가, 사도 12 달성 시 사망</Desc>
   </PassiveDesc>
-  <PassiveDesc ID="1600001">
+  <PassiveDesc ID="1500006">
     <Name>자칭 신</Name>
     <Desc>합 진행 시 결과에 관계없이 주사위 눈의 값만큼 상대의 전체 체력에서 %데미지, 일방 공격 시 그 두 배</Desc>
   </PassiveDesc>
-  <PassiveDesc ID="2010000">
+  <PassiveDesc ID="1500007">
     <Name>조율자</Name>
     <Desc>참격 주사위로 합 승리 시 검은안개 폭주 6, 관통 주사위로 합 승리 시 기둥 폭주 6, 타격 주사위로 합 승리 시 파도 폭주 6, 수비 주사위로 합 승리 시 모든 폭주 3 부여</Desc>
   </PassiveDesc>
-  <PassiveDesc ID="2010001">
+  <PassiveDesc ID="1500008">
     <Name>조율자</Name>
     <Desc>일방 공격 시 상대가 폭주에 걸려 있으면 중첩 수만큼 그 폭주에 해당하는 효과 발동</Desc>
   </PassiveDesc>
-  <PassiveDesc ID="2010002">
+  <PassiveDesc ID="1500009">
     <Name>조율자</Name>
     <Desc>합 패배 시 이번 막과 다음 막에 힘 1, 인내 1 부여</Desc>
   </PassiveDesc>
-  <PassiveDesc ID="10000000">
+  <PassiveDesc ID="1500010">
     <Name>과속</Name>
     <Desc>전투 시작 시 최대 빛을 5로 확장, 속도 주사위 +2</Desc>
   </PassiveDesc>

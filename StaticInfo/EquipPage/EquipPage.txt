@@ -33,9 +33,9 @@
     <CharacterSkin>Custom_BossBirdEGO</CharacterSkin>
     <Rarity>Unique</Rarity>
   </Book>
-  <Book ID="1700000">
+  <Book ID="1300001">
     <Name>실낙원</Name>
-    <TextId>1700000</TextId>
+    <TextId>1300001</TextId>
     <EquipEffect>
       <HP>25</HP>
       <HpGrowth>10</HpGrowth>
@@ -49,18 +49,18 @@
       <SBResist>Resist</SBResist>
       <PBResist>Resist</PBResist>
       <HBResist>Resist</HBResist>
-      <Passive Level="5">10000000</Passive>
-      <Passive Level="12">1600000</Passive>
-      <Passive Level="12">1600001</Passive>
+      <Passive Level="5">1500010</Passive>
+      <Passive Level="12">1500005</Passive>
+      <Passive Level="12">1500006</Passive>
       <StartPlayPoint>7</StartPlayPoint>
     </EquipEffect>
     <BookIcon>Lobotomy</BookIcon>
     <CharacterSkin>Custom_WhiteNightEGO</CharacterSkin>
     <Rarity>Unique</Rarity>
   </Book>
-  <Book ID="2000000">
+  <Book ID="1300002">
     <Name>조율자</Name>
-    <TextId>2000000</TextId>
+    <TextId>1300002</TextId>
     <EquipEffect>
       <HP>25</HP>
       <HpGrowth>10</HpGrowth>
@@ -74,10 +74,10 @@
       <SBResist>Resist</SBResist>
       <PBResist>Resist</PBResist>
       <HBResist>Resist</HBResist>
-      <Passive Level="5">10000000</Passive>
-      <Passive Level="5">2010000</Passive>
-      <Passive Level="5">2010001</Passive>
-      <Passive Level="5">2010002</Passive>
+      <Passive Level="5">1500010</Passive>
+      <Passive Level="5">1500007</Passive>
+      <Passive Level="5">1500008</Passive>
+      <Passive Level="5">1500009</Passive>
       <StartPlayPoint>7</StartPlayPoint>
     </EquipEffect>
     <BookIcon>Lobotomy</BookIcon>

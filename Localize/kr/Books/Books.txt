@@ -15,7 +15,7 @@
         <Passive>피해를 받을 시 다음 막에 자신에게 취약 5, 힘 5 부여</Passive>
       </PassiveList>
   </BookDesc>
-  <BookDesc BookID="1700000">
+  <BookDesc BookID="1300001">
     <BookName>실낙원</BookName>
     <TextList>
       <Desc>a</Desc>
@@ -27,7 +27,7 @@
         <Passive>합 진행 시 결과에 관계없이 주사위 눈의 값만큼 상대의 전체 체력에서 %데미지, 일방 공격 시 그 두 배</Passive>
       </PassiveList>
   </BookDesc>
-  <BookDesc BookID="2000000">
+  <BookDesc BookID="1300002">
     <BookName>조율자</BookName>
     <TextList>
       <Desc>a</Desc>
