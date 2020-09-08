@@ -24,8 +24,8 @@
         <Rarity>Rare</Rarity>
         <Spec Range="Near" Cost="2" />
         <Option>OnlyPage</Option>
-        <Script/>
-        <ScriptDesc/>
+        <Script>onlypage</Script>
+        <ScriptDesc>[전용 전투 책장]</ScriptDesc>
         <BehaviourList>
         <Behaviour Min="40" Dice="50" Type="Atk" Detail="Slash" Motion="J" EffectRes="" Script="SmallBeak" Desc="[적중] 상대에게 현재 출혈 +20 부여" />
         </BehaviourList>
@@ -54,8 +54,8 @@
         <Rarity>Rare</Rarity>
         <Spec Range="Far" Cost="2" />
         <Option>OnlyPage</Option>
-        <Script/>
-        <ScriptDesc/>
+        <Script>onlypage</Script>
+        <ScriptDesc>[전용 전투 책장]</ScriptDesc>
         <BehaviourList>
         <Behaviour Min="13" Dice="13" Type="Atk" Detail="Penetrate" Motion="H" EffectRes="" Script="LongArms" Desc="[합 승리] 적에게 최대 체력의 20%의 피해" />
         <Behaviour Min="13" Dice="13" Type="Atk" Detail="Hit" Motion="H" EffectRes="" Script="LongArms" Desc="[합 승리] 적에게 최대 체력의 20%의 피해" />
