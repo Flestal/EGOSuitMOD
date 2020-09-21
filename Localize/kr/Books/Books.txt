@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BookDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <bookDescList>
-  <BookDesc BookID="1300000">
+  <BookDesc BookID="7300000">
     <BookName>황혼</BookName>
     <TextList>
       <Desc>a</Desc>
@@ -15,7 +15,7 @@
         <Passive>피해를 받을 시 다음 막에 자신에게 취약 5, 힘 5 부여</Passive>
       </PassiveList>
   </BookDesc>
-  <BookDesc BookID="1300001">
+  <BookDesc BookID="7300001">
     <BookName>실낙원</BookName>
     <TextList>
       <Desc>a</Desc>
@@ -27,7 +27,7 @@
         <Passive>합 진행 시 결과에 관계없이 주사위 눈의 값만큼 상대의 전체 체력에서 %데미지, 일방 공격 시 그 두 배</Passive>
       </PassiveList>
   </BookDesc>
-  <BookDesc BookID="1300002">
+  <BookDesc BookID="7300002">
     <BookName>조율자</BookName>
     <TextList>
       <Desc>a</Desc>
@@ -35,7 +35,18 @@
     </TextList>
     <PassiveList>
         <Passive>속도 주사위 +2</Passive>
-        <Passive>일방 공격 시 상대가 폭주에 걸려 있으면 중첩 수만큼 그 폭주에 해당하는 효과 발동</Passive>
+        <Passive>합 승리 시 주사위 종류에 따라 다른 폭주 부여, 일방 공격 시 상대가 폭주에 걸려 있으면 중첩 수만큼 그 폭주에 해당하는 효과 발동</Passive>
+      </PassiveList>
+  </BookDesc>
+  <BookDesc BookID="7300003">
+    <BookName>계승용(착용불가)</BookName>
+    <TextList>
+      <Desc>a</Desc>
+      <Desc>a</Desc>
+    </TextList>
+    <PassiveList>
+        <Passive>합 승리 시 나에게 긍정 감정, 상대에게 부정 감정 2 누적, 합 패배 시 그 반대, 막 시작 시 자신의 감정 단계만큼 책장을 추가로 뽑음</Passive>
+        <Passive>15 이상의 피해를 줄 시 무작위 적에게 같은 피해를 입힘</Passive>
       </PassiveList>
   </BookDesc>
   </bookDescList>

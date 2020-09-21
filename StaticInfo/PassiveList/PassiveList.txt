@@ -1,27 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PassiveXmlRoot>
 
-  <Passive ID="1500000">
+  <!-- 황혼 -->
+  <Passive ID="7500000">
+  <Rarity>Unique</Rarity>
+    <NeedLevel>5</NeedLevel>
+    <Cost>6</Cost>
   </Passive>
-  <Passive ID="1500001">
+  <!-- 어황지 -->
+  <Passive ID="7500001">
+  <Rarity>Unique</Rarity>
+    <NeedLevel>5</NeedLevel>
+    <Cost>6</Cost>
   </Passive>
-  <Passive ID="1500002">
+  <!-- 감시 -->
+  <Passive ID="7500002">
+  <Rarity>Unique</Rarity>
+    <NeedLevel>10</NeedLevel>
+    <Cost>4</Cost>
   </Passive>
-  <Passive ID="1500003">
+  <!-- 심판 -->
+  <Passive ID="7500003">
+  <Rarity>Unique</Rarity>
+    <NeedLevel>15</NeedLevel>
+    <Cost>5</Cost>
   </Passive>
-  <Passive ID="1500004">
+  <!-- 징벌 -->
+  <Passive ID="7500004">
+  <Rarity>Unique</Rarity>
+    <NeedLevel>20</NeedLevel>
+    <Cost>6</Cost>
   </Passive>
-  <Passive ID="1500005">
+  <!-- 사도 -->
+  <Passive ID="7500005">
+  <Rarity>Unique</Rarity>
+    <NeedLevel>12</NeedLevel>
+    <Cost>4</Cost>
   </Passive>
-  <Passive ID="1500006">
+  <!-- 자칭신 -->
+  <Passive ID="7500006">
+  <Rarity>Unique</Rarity>
+    <NeedLevel>12</NeedLevel>
+    <Cost>6</Cost>
   </Passive>
-  <Passive ID="1500007">
+  <!-- 조율자 -->
+  <Passive ID="7500007">
+  <Rarity>Unique</Rarity>
+    <NeedLevel>10</NeedLevel>
+    <Cost>7</Cost>
   </Passive>
-  <Passive ID="1500008">
+  <!-- 감정기복 -->
+  <Passive ID="7500008">
+  <Rarity>Unique</Rarity>
+    <NeedLevel>10</NeedLevel>
+    <Cost>3</Cost>
   </Passive>
-  <Passive ID="1500009">
+  <!-- 과속 -->
+  <Passive ID="7500009">
+  <Rarity>Unique</Rarity>
+    <NeedLevel>10</NeedLevel>
+    <Cost>2</Cost>
   </Passive>
-  <Passive ID="1500010">
+  <!-- 갈격 -->
+  <Passive ID="7500010">
+  <Rarity>Unique</Rarity>
+    <NeedLevel>10</NeedLevel>
+    <Cost>3</Cost>
   </Passive>
  
 </PassiveXmlRoot>

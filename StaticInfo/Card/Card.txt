@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <DiceCardXmlRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <Card ID="1400000">
+    <Card ID="7400000">
         <Name>어두운 황혼을 지샌</Name>
         <Artwork>OverDusk</Artwork>
         <Rarity>Unique</Rarity>
@@ -17,8 +17,9 @@
         </BehaviourList>
         <Chapter>4</Chapter>
         <Priority>10</Priority>
+        <SortPriority>1</SortPriority>
     </Card>
-    <Card ID="1400001">
+    <Card ID="7400001">
         <Name>작은 부리</Name>
         <Artwork>SmallBeak</Artwork>
         <Rarity>Rare</Rarity>
@@ -31,8 +32,9 @@
         </BehaviourList>
         <Chapter>4</Chapter>
         <Priority>0</Priority>
+        <SortPriority>1</SortPriority>
     </Card>
-    <Card ID="1400002">
+    <Card ID="7400002">
         <Name>큰 눈</Name>
         <Artwork>BigEyes</Artwork>
         <Rarity>Rare</Rarity>
@@ -47,8 +49,9 @@
         </BehaviourList>
         <Chapter>4</Chapter>
         <Priority>2</Priority>
+        <SortPriority>1</SortPriority>
     </Card>
-    <Card ID="1400003">
+    <Card ID="7400003">
         <Name>긴 팔</Name>
         <Artwork>LongArms</Artwork>
         <Rarity>Rare</Rarity>
@@ -62,6 +65,7 @@
         </BehaviourList>
         <Chapter>4</Chapter>
         <Priority>1</Priority>
+        <SortPriority>1</SortPriority>
     </Card>     
 
 </DiceCardXmlRoot>

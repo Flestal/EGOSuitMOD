@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BattleCardDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <cardDescList>
-    <BattleCardDesc ID="1400000">
+    <BattleCardDesc ID="7400000">
       <LocalizedName>어두운 황혼을 지샌</LocalizedName>
       <Ability>[전투 시작] 자신을 제외한 아군에게 힘 10, 모든 적에게 취약 20 부여
         [사용 시] 이번 막에 보호를, 다음 막에 자신을 제외한 아군에게 신속을 5 부여</Ability>
@@ -10,16 +10,16 @@
       <Behaviour ID="2">[적중] 이 공격이 상대의 가장 취약한 속성이면 이 주사위를 재활용(최대 5회)</Behaviour>
       <Behaviour ID="3">[적중] 이 공격이 상대의 가장 취약한 속성이면 이 주사위를 재활용(최대 5회)</Behaviour>
     </BattleCardDesc>
-    <BattleCardDesc ID="1400001">
+    <BattleCardDesc ID="7400001">
       <LocalizedName>작은 부리</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[적중] 상대에게 다음 막에 현재 출혈 +20 부여</Behaviour>
     </BattleCardDesc>
-    <BattleCardDesc ID="1400002">
+    <BattleCardDesc ID="7400002">
       <LocalizedName>큰 눈</LocalizedName>
       <Ability>[사용 시] 다음 막에 대상에게 이번 막의 취약, 허약, 무장 해제 +8 부여</Ability>
     </BattleCardDesc>
-    <BattleCardDesc ID="1400003">
+    <BattleCardDesc ID="7400003">
       <LocalizedName>긴 팔</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[합 승리] 적에게 최대 체력의 20%의 피해</Behaviour>

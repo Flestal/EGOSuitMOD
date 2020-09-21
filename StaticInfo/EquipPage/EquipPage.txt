@@ -1,14 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <BookXmlRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-  <Book ID="1300000">
+  <Book ID="7300000">
     <Name>황혼</Name>
-    <TextId>1300000</TextId>
+    <TextId>7300000</TextId>
     <EquipEffect>
-      <HP>25</HP>
-      <HpGrowth>10</HpGrowth>
-      <Break>25</Break>
-      <BreakGrowth>10</BreakGrowth>
+      <HP>250</HP>
+      <Break>125</Break>
       <SpeedMin>4</SpeedMin>
       <Speed>7</Speed>
       <SResist>Resist</SResist>
@@ -17,30 +15,30 @@
       <SBResist>Resist</SBResist>
       <PBResist>Resist</PBResist>
       <HBResist>Resist</HBResist>
-      <Passive Level="5">1500000</Passive>
-      <Passive Level="5">1500001</Passive>
-      <Passive Level="10">1500002</Passive>
-      <Passive Level="15">1500003</Passive>
-      <Passive Level="20">1500004</Passive>
-      <OnlyCard>1400000</OnlyCard>
-      <OnlyCard>1400001</OnlyCard>
-      <OnlyCard>1400002</OnlyCard>
-      <OnlyCard>1400003</OnlyCard>
+      <PassiveCost>37</PassiveCost>
+      <Passive Level="5">7500000</Passive>
+      <Passive Level="5">7500001</Passive>
+      <Passive Level="10">7500002</Passive>
+      <Passive Level="15">7500003</Passive>
+      <Passive Level="20">7500004</Passive>
+      <OnlyCard>7400000</OnlyCard>
+      <OnlyCard>7400001</OnlyCard>
+      <OnlyCard>7400002</OnlyCard>
+      <OnlyCard>7400003</OnlyCard>
       <StartPlayPoint>7</StartPlayPoint>
     </EquipEffect>
     <RangeType>Hybrid</RangeType>
     <BookIcon>Lobotomy</BookIcon>
+    <Chapter>6</Chapter>
     <CharacterSkin>Custom_BossBirdEGO</CharacterSkin>
     <Rarity>Unique</Rarity>
   </Book>
-  <Book ID="1300001">
+  <Book ID="7300001">
     <Name>실낙원</Name>
-    <TextId>1300001</TextId>
+    <TextId>7300001</TextId>
     <EquipEffect>
-      <HP>25</HP>
-      <HpGrowth>10</HpGrowth>
-      <Break>25</Break>
-      <BreakGrowth>10</BreakGrowth>
+      <HP>250</HP>
+      <Break>125</Break>
       <SpeedMin>4</SpeedMin>
       <Speed>7</Speed>
       <SResist>Resist</SResist>
@@ -49,23 +47,24 @@
       <SBResist>Resist</SBResist>
       <PBResist>Resist</PBResist>
       <HBResist>Resist</HBResist>
-      <Passive Level="5">1500010</Passive>
-      <Passive Level="12">1500005</Passive>
-      <Passive Level="12">1500006</Passive>
+      <PassiveCost>25</PassiveCost>
+      <Passive Level="5">7500009</Passive>
+      <Passive Level="12">7500005</Passive>
+      <Passive Level="12">7500006</Passive>
+      <Passive Level="12">7500008</Passive>
       <StartPlayPoint>7</StartPlayPoint>
     </EquipEffect>
     <BookIcon>Lobotomy</BookIcon>
+    <Chapter>6</Chapter>
     <CharacterSkin>Custom_WhiteNightEGO</CharacterSkin>
     <Rarity>Unique</Rarity>
   </Book>
-  <Book ID="1300002">
+  <Book ID="7300002">
     <Name>조율자</Name>
-    <TextId>1300002</TextId>
+    <TextId>7300002</TextId>
     <EquipEffect>
-      <HP>25</HP>
-      <HpGrowth>10</HpGrowth>
-      <Break>25</Break>
-      <BreakGrowth>10</BreakGrowth>
+      <HP>250</HP>
+      <Break>125</Break>
       <SpeedMin>5</SpeedMin>
       <Speed>8</Speed>
       <SResist>Resist</SResist>
@@ -74,14 +73,39 @@
       <SBResist>Resist</SBResist>
       <PBResist>Resist</PBResist>
       <HBResist>Resist</HBResist>
-      <Passive Level="5">1500010</Passive>
-      <Passive Level="5">1500007</Passive>
-      <Passive Level="5">1500008</Passive>
-      <Passive Level="5">1500009</Passive>
+      <PassiveCost>23</PassiveCost>
+      <Passive Level="5">7500009</Passive>
+      <Passive Level="5">7500007</Passive>
+      <Passive Level="5">7500008</Passive>
       <StartPlayPoint>7</StartPlayPoint>
     </EquipEffect>
     <BookIcon>Lobotomy</BookIcon>
+    <Chapter>6</Chapter>
     <CharacterSkin>Custom_Garion</CharacterSkin>
     <Rarity>Unique</Rarity>
+  </Book>
+  <Book ID="7300003">
+    <Name>계승용(착용불가)</Name>
+    <TextId>7300003</TextId>
+    <EquipEffect>
+      <HP>1</HP>
+      <Break>1</Break>
+      <SpeedMin>1</SpeedMin>
+      <Speed>5</Speed>
+      <SResist>Normal</SResist>
+      <PResist>Normal</PResist>
+      <HResist>Normal</HResist>
+      <SBResist>Normal</SBResist>
+      <PBResist>Normal</PBResist>
+      <PBResist>Normal</PBResist>
+      <PassiveCost>21</PassiveCost>
+      <Passive Level="5">7500008</Passive>
+      <Passive Level="5">7500010</Passive>
+    </EquipEffect>
+    <NotEquip>true</NotEquip>
+    <BookIcon>Lobotomy</BookIcon>
+    <Chapter>6</Chapter>
+    <Rarity>Common</Rarity>
+    <CharacterSkin>Custom_BossBirdEGO</CharacterSkin>
   </Book>
 </BookXmlRoot>
