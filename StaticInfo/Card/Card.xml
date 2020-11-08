@@ -31,7 +31,7 @@
         <Behaviour Min="40" Dice="50" Type="Atk" Detail="Slash" Motion="J" EffectRes="" Script="SmallBeak" Desc="[적중] 상대에게 현재 출혈 +20 부여" />
         </BehaviourList>
         <Chapter>4</Chapter>
-        <Priority>0</Priority>
+        <Priority>5</Priority>
         <SortPriority>1</SortPriority>
     </Card>
     <Card ID="7400002">

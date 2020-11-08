@@ -26,4 +26,18 @@
     <DropItem Type="Card">7400002</DropItem>
     <DropItem Type="Card">7400003</DropItem>
   </BookUse>
+  <BookUse ID="7980000">
+    <TextId>dropbook_bossbird</TextId>
+    <BookIcon>BossBird</BookIcon>
+    <Chapter>6</Chapter>
+    <EquipProb>0.4</EquipProb>
+    <DropItem Type="Equip">7300000</DropItem>
+    <DropItem Type="Equip">7300001</DropItem>
+    <DropItem Type="Equip">7300002</DropItem>
+    <DropItem Type="Equip">7300003</DropItem>
+    <DropItem Type="Card">7400000</DropItem>
+    <DropItem Type="Card">7400001</DropItem>
+    <DropItem Type="Card">7400002</DropItem>
+    <DropItem Type="Card">7400003</DropItem>
+  </BookUse>
 </BookUseXmlRoot>
