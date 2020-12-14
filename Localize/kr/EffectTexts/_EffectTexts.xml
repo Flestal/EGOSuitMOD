@@ -25,5 +25,9 @@
       <Name>기둥 폭주</Name>
       <Desc>매 주사위를 굴릴 때 1씩 감소함. 폭주 시 {0} x8만큼의 피해를 입음.</Desc>
     </BattleEffectText>
+     <BattleEffectText ID="onlypage_BossBird_Keyword">
+      <Name>황혼 전용 전투 책장</Name>
+			<Desc>황혼에만 장착가능</Desc>
+    </BattleEffectText>
   </effectTextList>
 </BattleEffectTextRoot>
